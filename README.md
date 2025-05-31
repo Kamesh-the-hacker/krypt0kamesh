@@ -63,7 +63,7 @@ Extract the hidden message
 ---
 🏃Run Command
 ```bash
-python stenogrpahy.py
+python steganography.py
 ```
 📁 Files
 

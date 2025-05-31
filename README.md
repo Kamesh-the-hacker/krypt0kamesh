@@ -41,7 +41,7 @@ pip install pillow
 
 Run the GUI tool:
 
-python stenography.py
+python steganography.py
 
 🔧 Encoder:
 

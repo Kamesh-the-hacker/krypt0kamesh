@@ -60,7 +60,7 @@ class SteganographyDecoder:
         container.pack(fill='both', expand=True)
         
         # Title
-        title_label = tk.Label(container, text="KryptKamesh Image Encoder/Decoder", 
+        title_label = tk.Label(container, text="Krypt0Kamesh Image Encoder/Decoder", 
                               font=('VT323', 20, 'bold'), bg='#3d3d3d', fg='white')
         title_label.pack(pady=(0, 20))
         

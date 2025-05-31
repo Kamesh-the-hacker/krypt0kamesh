@@ -18,8 +18,8 @@ A simple Python-based steganography tool to *hide and extract secret messages* i
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/kamesh-the-hacker/stenography-tool.git
-cd stenography-tool
+git clone https://github.com/kamesh-the-hacker/krypt0kamesh.git
+cd krypt0kamesh
 ```
 
 2️⃣ Set Up Python Environment
